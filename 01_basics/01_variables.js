@@ -8,6 +8,9 @@ let accountId = "ajay@gmail.com"  // it is prefer to be used.
 var accountPass = "1234"// not used cause of scoping and functionality😒😒
 city = "Jaunpur"// kya hi gunda bnega re tu
 
+
+let consider;// this is an undefined variable..
+
 console.log(schema);
 
 // sbko ek sath print kra lete hai.. kya kehto ho😂
