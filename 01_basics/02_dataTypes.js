@@ -4,7 +4,14 @@
 
 
 //chaliye discuss kr lete hai dataTypes ke bare me ...
+//primitive⭐⭐(copy pass ki jati hai)
 
+// 7 types: String, Number, Boolean, null, undefined, Symbol, BigInt
+
+
+//Reference pass kiya jata hai(Non Primitive)
+
+//Array[], Objects{key:value}, Functions
 
 /*
 number =>2 to power 53
