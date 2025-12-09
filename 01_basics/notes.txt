@@ -1,3 +1,3 @@
-1.ECMA script...(document notation )
+1.ECMA script...(document notation )ye wala hi real hai...
 
-mdm reference(moxila)
+2. mdm reference(mozilla)
