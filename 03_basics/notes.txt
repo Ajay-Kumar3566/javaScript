@@ -1,0 +1,36 @@
++++++++++ javaScript Execution Context +++++
+
+{}=>global EC
+
+
+
+** types of EC
+=>global EC
+=>Function EC
+=>Eval EC
+
+
+
+{}-->memory creation phase
+  -->execution phase
+
+
+
+
+⭐⭐how javaScript code executes..
+
+(1.) global execution->this
+(2.)memory phase (first all variable contains undefined.)
+          {
+            varibale->undefined
+            function->definition
+          }  
+(3.)Execution phase
+{
+    variable<--value assigned to it
+    function<--[
+                    new variable environment+execution thread
+                ]-->after creation it delete
+}
+
+--> again function part will go into the memory phase....
