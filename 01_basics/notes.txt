@@ -28,3 +28,6 @@ let arr = [1, 2, 3, 4, 5];
 let removed = arr.splice(1, 2); // remove 2 elements from index 1
 console.log(removed); // [2, 3]
 console.log(arr);     // [1, 4, 5]  (changed)
+
+
+4. API: jab me apna kaam dusro ke sir per daalna ho to ise hi api call kehte hai..
